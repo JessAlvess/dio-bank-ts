@@ -1,0 +1,1 @@
+companyAccount.getLoan(20000)
